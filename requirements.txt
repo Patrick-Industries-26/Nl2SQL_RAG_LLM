@@ -1,0 +1,16 @@
+Flask
+Flask-CORS
+Flask-SQLAlchemy
+Flask-JWT-Extended
+PyMySQL
+cryptography
+python-dotenv
+llama-cpp-python
+faiss-cpu
+sentence-transformers
+sqlparse
+sqlalchemy
+pandas
+numpy
+requests
+werkzeug
